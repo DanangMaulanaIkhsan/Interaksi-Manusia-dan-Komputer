@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(231, 231, 231);
+}
+.card-title h5{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.col2{
+    padding-top: 50px;
+}
+.footer{
+    background-color: #FFC300 ;
+}
+.kategori{
+    padding-top: 30px;
+}
